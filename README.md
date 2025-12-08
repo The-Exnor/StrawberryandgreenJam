@@ -5,8 +5,6 @@
 ### **StrawberryJam**
 The Jellyfin theme for red enthusiasts. Supports banners
 
-[Go to installation](#installation)
-
 ---
 
 ### **Import URL**
