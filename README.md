@@ -17,7 +17,7 @@ Jellyfin 10.11.X and above
 
 <img src="./images/homepage.png" alt="homepage" width="100%"/>
 <img src="./images/details.png" alt="details" width="100%"/>
-
+<img src="./images/player.png" alt="player" width="100%"/>
 ---
 
 ### **Installation:**
