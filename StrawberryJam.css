@@ -1,10 +1,10 @@
 /* Variables */
 :root {
-    --primary-r: 255;
-    --primary-g: 0;
-    --primary-b: 0;
+    --primary-r: 0;
+    --primary-g: 255;
+    --primary-b: 15;
     --primary-accent-color: rgba(var(--primary-r), var(--primary-g), var(--primary-b), 1.0);
-    --secondary-accent-color: rgba(255, 0, 0, 0.2);
+    --secondary-accent-color: rgba(25, 0, 100, 0.2);
 1.0);
     --secondary-accent-color: #cf0e00;
     --primary-background-color: #101010;
@@ -27,23 +27,23 @@
 
 /* Dashboard text */
 .dashboardGeneralForm {
-  color: rgba(200, 20, 20, 1);
+  color: rgba(20, 200, 20, 1);
 }
 
 
 
 /* Side bar text */
 .mainDrawer-scrollContainer {
-  color: rgba(200, 20, 20, 1);
+  color: rgba(20, 200, 20, 1);
 }
 
 
 
 /* Right-click menus */
-.dialog {border-radius: 6px !important; background-color: rgba(100, 44, 44, 0.5);}
-.actionSheetMenuItem:hover {background-color: rgba(100, 44, 44, 0.5);}
+.dialog {border-radius: 6px !important; background-color: rgba(40, 100, 44, 0.5);}
+.actionSheetMenuItem:hover {background-color: rgba(40, 100, 44, 0.5);}
 .mainDrawer {background-color: var(--primary-background-transparent);}
-.navMenuOption:hover {background: rgba(100, 44, 44, 0.5);}
+.navMenuOption:hover {background: rgba(40, 100, 44, 0.5);}
 
 
 /* Background image */
@@ -296,7 +296,7 @@ progress::-webkit-progress-value {
     margin-bottom: 3px !important;
 }
 .navMenuOption:hover:not(.navMenuOption-selected) {
-    background-color: rgba(100, 44, 44, 0.5);
+    background-color: rgba(40, 100, 44, 0.5);
 }
 /* Center icons and text and shift to the left */
 .navMenuOptionIcon,
@@ -307,7 +307,7 @@ progress::-webkit-progress-value {
 }
 /* Custom button color */
 .navMenuOption-selected {
-    background: rgba(100, 11, 11, 0.5) !important;
+    background: rgba(10, 100, 11, 0.5) !important;
     color: var(--primary-accent-color) !important;
 }
 /* Fix for header buttons */
@@ -1141,3 +1141,4 @@ progress::-webkit-progress-value {
 .material-icons.audiotrack::before {
     content: "\e91f";
 }
+
