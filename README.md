@@ -14,10 +14,6 @@ Jellyfin 10.11.X and above
 @import url('https://cdn.jsdelivr.net/gh/KnuXles/StrawberryJam@main/StrawberryJam.css');
 ```
 
-<img src="./images/homepage.png" alt="homepage" width="100%"/>
-<img src="./images/details.png" alt="details" width="100%"/>
-<img src="./images/player.png" alt="player" width="100%"/>
----
 
 ### **Installation:**
 
