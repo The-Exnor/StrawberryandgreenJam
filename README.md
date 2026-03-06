@@ -2,8 +2,9 @@
   <img src="./images/StrawberryIcon.png" alt="Strawberry Icon" width="200"/>
 </p>
 
-### **StrawberryJam**
-The Jellyfin theme for red enthusiasts. Supports banners
+### **StrawberryJam Green**
+    *Based onthe work of KnuXles*
+The Jellyfin theme for Green enthusiasts 🙃😜. Supports banners
 
 ---
 
