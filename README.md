@@ -12,7 +12,7 @@ The Jellyfin theme for Green enthusiasts 🙃😜. Supports banners
 Jellyfin 10.11.X and above
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/The-Exnor/StrawberryandgreenJam/refs/heads/main/StrawberryJam.css');
+@import url('https://cdn.jsdelivr.net/gh/The-Exnor/StrawberryandgreenJam@main/StrawberryJam.css');
 
 
 ```
