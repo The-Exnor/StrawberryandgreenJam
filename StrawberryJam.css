@@ -49,7 +49,7 @@
 /* Background image */
 .backgroundContainer {
   background-color: rgba(0, 0, 0, 0);
-  background-image: url('https://iili.io/fxODcSs.png');
+  background-image: url('https://iili.io/qxWZ88B.png');
   filter: blur(10px);
   background-size: cover;
   z-index: -3;
@@ -1141,4 +1141,5 @@ progress::-webkit-progress-value {
 .material-icons.audiotrack::before {
     content: "\e91f";
 }
+
 
