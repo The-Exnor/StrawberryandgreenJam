@@ -61,11 +61,11 @@
 
 /* Custom logo */
 .adminDrawerLogo 
-img { content: url('https://iili.io/qxWZ88B.png') !important; 
+img { content: url('https://iili.io/qY7Gel2.png') !important; 
 }
-imgLogoIcon { content: url('https://iili.io/qxWZ88B.png') !important; 
+imgLogoIcon { content: url('https://iili.io/qY7Gel2.png') !important; 
 }
-.pageTitleWithLogo { background-image: url('https://iili.io/qxWZ88B.png') !important; 
+.pageTitleWithLogo { background-image: url('https://iili.io/qY7cNzx.md.png') !important; 
 }
 
 
@@ -1141,6 +1141,7 @@ progress::-webkit-progress-value {
 .material-icons.audiotrack::before {
     content: "\e91f";
 }
+
 
 
 
