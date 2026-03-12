@@ -3,7 +3,8 @@
 </p>
 
 ### **StrawberryJam Green**
-    *Based onthe work of KnuXles*
+»»   Based onthe work of KnuXles   ««
+
 The Jellyfin theme for Green enthusiasts 🙃😜. Supports banners
 
 ---
